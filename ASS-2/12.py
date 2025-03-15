@@ -1,7 +1,7 @@
-l=[1,2,1]
-l1=l.copy()
-l.reverse()
-if l1==l:
-    print("List is paliandrome")
+n = int(input("Enter a number: "))
+if n<0:
+    print("It is negetive")
+elif n==0:
+    print("It is 0")  
 else:
-    print("List is Not paliandrome")    
+    print("It is positive")      
