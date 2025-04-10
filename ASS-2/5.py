@@ -1,5 +1,5 @@
 l="Yaashh Bhakta"
-n=str(input("Enter a number from : "))
+n=str(input("Enter a lrtter from : "))
 i=0
 c=0
 while i<len(l):
